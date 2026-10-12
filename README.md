@@ -11,9 +11,9 @@
 | Email | mrhedg42@gmail.com |
 | GitHub | https://github.com/mrhedg-42 |
 
-### profile
+### 個人照片
 
-![profile](image/profile.jpg)
+<img src="image/profile.jpg" alt="個人照片" width="300"
 
 ## 2. 關於我 About Me
 
